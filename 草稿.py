@@ -2,7 +2,9 @@ from datetime import datetime, timedelta
 import gzip
 import io
 import re
-
+import os
+import pandas as pd
+import requests
 def parse_file_info(html_content):
     # 使用正则表达式匹配文件信息
     pattern = r'blockchair_bitcoin_transactions_\d{8}\.tsv\.gz\s+\d{2}-[A-Za-z]{3}-\d{4}\s+\d{2}:\d{2}\s+\d+'

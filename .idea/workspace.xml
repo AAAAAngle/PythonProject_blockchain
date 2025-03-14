@@ -79,7 +79,7 @@
       <workItem from="1741939774891" duration="1407000" />
       <workItem from="1741941444385" duration="615000" />
       <workItem from="1741942440807" duration="4523000" />
-      <workItem from="1741953486282" duration="428000" />
+      <workItem from="1741953486282" duration="554000" />
     </task>
     <task id="LOCAL-00001" summary="找到 0 个文件信息&#10;在指定日期范围内找到 0 个文件&#10;没有找到任何数据">
       <option name="closed" value="true" />
@@ -89,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741953639014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="找到 0 个文件信息&#10;在指定日期范围内找到 0 个文件&#10;没有找到任何数据">
+      <option name="closed" value="true" />
+      <created>1741953938437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741953938437</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
