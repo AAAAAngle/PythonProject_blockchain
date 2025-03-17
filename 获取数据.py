@@ -46,7 +46,7 @@ def open_file(file_path):
         # 获取绝对路径
         abs_path = os.path.abspath(file_path)
         print(f"\n文件已保存在: {abs_path}")
-        
+
         if os.path.exists(abs_path):
             # Windows系统下使用默认程序打开文件
             os.startfile(abs_path)
